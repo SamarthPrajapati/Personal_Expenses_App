@@ -1,6 +1,6 @@
 # Personal_Expenses
 
-A new Flutter project.
+It is the application in which you can track your daily expenses, so you won't loose your money in uselessly.
 
 ## Getting Started
 
